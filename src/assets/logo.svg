@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 942" width="1600" height="942" role="img" aria-label="شعار الدعم الرائدة Leading Support">
+  <!-- Solid deep black container -->
+  <rect width="1600" height="942" fill="#0A0A0A" />
+
+  <!-- Distinctive Arabic Calligraphic & Architectural Emblem for Logistics Support -->
+  <g transform="translate(0, -10)">
+    <!-- Interlocking emerald geometric dynamic curves representing seamless flow and support -->
+    <path d="M 640 180 C 720 120, 880 120, 960 180 C 1020 225, 1040 280, 1040 340 L 980 340 C 980 295, 960 255, 920 220 C 860 170, 740 170, 680 220 C 640 255, 620 295, 620 340 L 560 340 C 560 280, 580 225, 640 180 Z" fill="#047857" />
+    <path d="M 700 240 C 750 195, 850 195, 900 240 C 930 270, 945 305, 945 340 L 895 340 C 895 315, 880 290, 855 265 C 830 240, 770 240, 745 265 C 720 290, 705 315, 705 340 L 655 340 C 655 305, 670 270, 700 240 Z" fill="#34D399" />
+    <circle cx="800" cy="140" r="26" fill="#34D399" />
+    <polygon points="760,340 840,340 800,290" fill="#FFFFFF" />
+  </g>
+
+  <!-- Arabic Typography: الدعم الرائدة -->
+  <text x="800" y="475" text-anchor="middle" fill="#FFFFFF" font-family="'Cairo', sans-serif" font-weight="800" font-size="180" letter-spacing="0">
+    الدعم الرائدة
+  </text>
+
+  <!-- Emerald decorative separator -->
+  <rect x="530" y="535" width="540" height="7" rx="3.5" fill="#047857" />
+
+  <!-- Arabic Commercial subtitle -->
+  <text x="800" y="595" text-anchor="middle" fill="#E4E4E7" font-family="'Cairo', sans-serif" font-weight="600" font-size="44" letter-spacing="0">
+    مؤسسة الدعم الرائدة التجارية
+  </text>
+
+  <!-- English Composition: LEADING SUPPORT -->
+  <text x="800" y="720" text-anchor="middle" fill="#34D399" font-family="'Inter', system-ui, sans-serif" font-weight="800" font-size="84" letter-spacing="18">
+    LEADING SUPPORT
+  </text>
+
+  <!-- English Subtitle: STORAGE · FULFILMENT · SHIPPING -->
+  <text x="800" y="805" text-anchor="middle" fill="#A1A1AA" font-family="'Inter', system-ui, sans-serif" font-weight="600" font-size="32" letter-spacing="12">
+    STORAGE · FULFILMENT · SHIPPING
+  </text>
+</svg>

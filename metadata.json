@@ -1,0 +1,6 @@
+{
+  "name": "الدعم الرائدة — Leading Support",
+  "description": "خدمات التخزين وتجهيز الطلبات والشحن وإدارة المرتجعات للمتاجر الإلكترونية، مع تسجيل متجر يخضع لمراجعة الإدارة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
